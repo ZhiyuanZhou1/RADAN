@@ -126,4 +126,4 @@ The training configutations are all presented in bash scripts.
 
 
 ## Contact
-**Zhiyuan Zhou (周志远)**:  **zy980203123@163.com**. 
+**Zhiyuan Zhou (周志远)**:  **zhiyuanz861@gmail.com**. 
